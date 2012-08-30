@@ -1,0 +1,8 @@
+set var 20
+get var
+numequalto 20
+unset var
+unset var
+numequalto 20
+get var
+END

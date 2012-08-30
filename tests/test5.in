@@ -1,0 +1,16 @@
+set var this_is_a_string
+begin
+set var 1
+begin
+set var 2
+begin
+set var 3
+numequalto 3
+numequalto 2
+numequalto 1
+numequalto this_is_a_string
+commit
+get var
+numequalto 3
+numequalto this_is_a_string
+END

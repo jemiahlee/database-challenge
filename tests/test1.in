@@ -1,0 +1,10 @@
+unset var
+set var 10
+get var
+set var2 20
+get var2
+numequalto 20
+numequalto 30
+set var3 20
+numequalto 20
+END

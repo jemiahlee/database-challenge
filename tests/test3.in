@@ -1,0 +1,3 @@
+set var this_is_a_string
+get var
+END

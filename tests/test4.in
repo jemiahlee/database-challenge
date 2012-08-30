@@ -1,0 +1,17 @@
+set var this_is_a_string
+begin
+get var
+numequalto this_is_a_string
+numequalto 78
+set var 78
+numequalto this_is_a_string
+numequalto 78
+get var
+unset var
+get var
+numequalto 78
+rollback
+get var
+numequalto 78
+numequalto this_is_a_string
+END
