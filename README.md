@@ -1,4 +1,4 @@
-thumbtack-database-challenge
+database-challenge
 ============================
 
 My solution for a coding challenge that I did to try to get an interview. They did not make me sign anything, which means that copyright with this code resides with me.
