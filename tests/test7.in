@@ -1,0 +1,12 @@
+set var a
+set var b
+begin
+set var c
+begin
+set var a
+numequalto a
+rollback
+commit
+numequalto b
+numequalto c
+END

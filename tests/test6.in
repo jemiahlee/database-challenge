@@ -1,0 +1,10 @@
+set var a
+set var b
+begin
+set var c
+begin
+set var a
+numequalto a
+numequalto b
+numequalto c
+END
